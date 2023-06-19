@@ -1,6 +1,9 @@
-# weather_api
-node.js weather api
-screenshot:https://github.com/utkarsh0044/weather_api/blob/main/Screenshot%202023-06-03%20110115.png
+# weather_api 
+
+
+node.js weather api screenshot:
+
+https://github.com/utkarsh0044/weather_api/blob/main/Screenshot%202023-06-03%20110115.png
 
 Weather API
 This is a simple Node.js server that fetches real-time weather data for multiple cities using an external weather API. It exposes a /getWeather endpoint that accepts the names of multiple cities as input and responds with the real-time weather results.
